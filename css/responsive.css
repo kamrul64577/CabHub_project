@@ -1,0 +1,132 @@
+/*=========================
+    START HEADER
+==========================*/
+@media(max-width:991px){
+    ul{
+        margin-top: 20px;
+    }
+    .mt-5, .my-5 {
+        margin-top: 7rem !important;
+    }
+    header .py-5{
+        padding-top: 2rem !important;
+    }
+}
+
+@media(max-width:767px){
+   
+    .mt-5, .my-5 {
+        margin-top: 3rem !important;
+    }
+}
+@media(max-width:556px){
+   header{
+       height: 600px;
+   }
+   header .py-5{
+    padding-top: 3rem !important;
+}
+    header .header-info h1{
+        
+        font-size: 35px;
+    }
+    header .header-info h3{
+        font-size: 25px;
+    }
+    header .header-info p{
+        letter-spacing: 3px;
+    }
+}
+
+
+
+/*=========================
+    START CAB
+==========================*/
+@media(max-width:991px){
+    
+    .pt-5,.py-5{
+        padding-top: 0rem !important;
+    }
+    .cab .cab-right{
+        margin-left: 10%;
+    }
+}
+@media(max-width:550px){
+    .cab-left{
+        padding: 20px;
+    }
+    .cab .cab-left h1{
+        font-size: 38px;
+     }
+    .cab .cab-left h4{
+        font-size: 25px;
+        
+    }
+    .col-md-12{
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .cab .cab-left p{
+        width:100%;
+        padding: 0;
+    }
+    .pt-5,.py-5{
+        padding-top: 0rem !important;
+    }
+    .cab .cab-right{
+        margin-left: 0;
+        width: 95%;
+        margin-left: 2.5%;
+    }
+    
+    
+}
+
+/*=========================
+    START CARD
+==========================*/
+@media(max-width:991px){
+    
+    .main-card .our{
+        padding-top: 3rem;
+    }
+}
+
+
+
+/*=========================
+    START DOWNLOAD
+==========================*/
+@media(max-width:991px){
+    .download img{
+        margin-bottom: 20px;
+    }
+    .download .mobile img{
+        margin-top: 50px;
+        text-align: center;
+        padding-left: 0;
+    }
+}
+
+
+
+
+/*=========================
+    START CONTACT
+==========================*/
+@media(max-width:991px){
+    .contact h3{
+        padding-bottom: 20px;
+        border-bottom: 8px solid #ffc61a;
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+    .contact .cont{
+        margin-top: 0rem;
+        padding-top: 0rem;
+    }
+}
+
+
+
